@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Juan Li 李娟 | Science Writing Portfolio</title>
+  <meta name="description" content="Juan Li (李娟) 博士，生命科学博士，科学记者与医学写作者，精选科普与深度报道作品集" />
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Noto Sans", "PingFang SC",
+        "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      margin: 0;
+      background: #fafafa;
+      color: #222;
+      line-height: 1.7;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 3rem 1.5rem;
+    }
+    header h1 {
+      margin: 0 0 0.5rem 0;
+      font-size: 2.2rem;
+    }
+    header p {
+      max-width: 900px;
+      opacity: 0.9;
+    }
+    main {
+      max-width: 1000px;
+      margin: 2.5rem auto;
+      padding: 0 1.5rem;
+    }
+    section {
+      margin-bottom: 4rem;
+    }
+    h2 {
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+      margin-bottom: 2rem;
+      font-size: 1.8rem;
+    }
+    article {
+      margin-bottom: 2.2rem;
+      padding-bottom: 1.8rem;
+      border-bottom: 1px solid #e5e5e5;
+    }
+    article h3 {
+      margin: 0 0 0.6rem 0;
+      font-size: 1.2rem;
+    }
+    article p {
+      margin: 0.3rem 0 0.6rem 0;
+      color: #333;
+    }
+    article a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+    article a:hover {
+      text-decoration: underline;
+    }
+    .about p {
+      max-width: 900px;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Juan Li 李娟 博士</h1>
+    <p>
+      Science Journalist & Medical Writer · PhD in Life Sciences<br />
+      科学记者｜医学与生命科学写作者
+    </p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Selected Science Writing / 科普文章精选</h2>
+
+      <article>
+        <h3>一起真实案例曝出可怕细节：AI如何两次把人“逼疯”</h3>
+        <p>
+          本文深入剖析一起真实案例，揭示“技术介导的二联性精神病”，探讨高度个性化 AI 对话如何放大妄想并危及心理健康。
+        </p>
+        <a href="https://news.qq.com/rain/a/20251229A01YC600" target="_blank">阅读全文 →</a>
+      </article>
+
+      <article>
+        <h3>加拿大批准克隆肉进超市，美国网友破防</h3>
+        <p>
+          加拿大将克隆肉纳入普通食品监管体系，引发公众对食品安全、伦理与科学风险认知的广泛讨论。
+        </p>
+        <a href="https://cj.sina.com.cn/articles/view/1618051664/60718250027019gdw" target="_blank">阅读全文 →</a>
+      </article>
+
+      <article>
+        <h3>科学家重新定义肥胖，你一直在用的“金指标”要变了</h3>
+        <p>
+          BMI 正在被医学界重新审视，肥胖被定义为一种基于脂肪组织功能受损的慢性疾病。
+        </p>
+        <a href="https://www.kepuchina.cn/article/articleinfo?ar_id=579418" target="_blank">阅读全文 →</a>
+      </article>
+
+      <article>
+        <h3>7岁血癌女孩绝境逢生：CAR‑T 为何成为最后希望</h3>
+        <p>
+          通过真实病例讲述 CAR‑T 细胞治疗如何从科学构想走向改变癌症治疗格局的革命性技术。
+        </p>
+        <a href="https://www.kepuchina.cn/article/articleinfo?ar_id=648657" target="_blank">阅读全文 →</a>
+      </article>
+
+      <article>
+        <h3>接种新冠 mRNA 疫苗后，肿瘤意外消退</h3>
+        <p>
+          Nature 研究显示 mRNA 疫苗可激活先天免疫，为癌症免疫治疗提供新思路。
+        </p>
+        <a href="https://www.163.com/dy/article/KDGTH0SI05327918.html" target="_blank">阅读全文 →</a>
+      </article>
+
+      <article>
+        <h3>猪肺成功移植人体，异种器官移植走到哪一步了？</h3>
+        <p>
+          中国团队完成基因编辑猪肺人体移植实验，验证异种器官移植的可行性与挑战。
+        </p>
+        <a href="https://cloud.kepuchina.cn/newSearch/imgText?id=7370579367073513472" target="_blank">阅读全文 →</a>
+      </article>
+
+    </section>
+
+    <section class="about">
+      <h2>About / Author Statement</h2>
+      <p>
+        I am a science journalist and medical writer with a PhD in life sciences. My work focuses on the intersection of biomedical research, public health policy, and real‑world human consequences.
+      </p>
+      <p>
+        Trained as a researcher and working as a long‑form nonfiction writer, I aim to translate complex scientific evidence into rigorous, accessible narratives without oversimplifying uncertainty.
+      </p>
+      <p>
+        Juan Li 博士拥有发育生物学博士学位，曾在国际医学院和顶尖临床研究机构接受系统科研训练。她长期从事科学传播与医学写作，致力于将前沿科研成果转化为高质量公共知识。
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    © Juan Li 李娟 · Science Writing Portfolio
+  </footer>
+</body>
+</html>
